@@ -1,7 +1,7 @@
 Yomikata
 ========
 
-.. figure:: http://imgur.com/biyQJaU
+.. figure:: http://i.imgur.com/biyQJaU.png
    :alt: 
 
 Usage

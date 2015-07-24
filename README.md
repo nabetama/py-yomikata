@@ -1,6 +1,6 @@
 # Yomikata
 
-![](http://imgur.com/biyQJaU)
+![](http://i.imgur.com/biyQJaU.png)
 
 ## Usage
 

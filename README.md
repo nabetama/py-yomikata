@@ -1,6 +1,6 @@
 # Yomikata
 
-![capture](http://i.imgur.com/U4gJ2Bt.png)
+<a href="http://imgur.com/biyQJaU"><img src="http://i.imgur.com/biyQJaU.png" title="source: imgur.com" /></a>
 
 ## Usage
 

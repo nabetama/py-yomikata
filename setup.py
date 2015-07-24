@@ -6,7 +6,7 @@ with open("README.rst",  "rt") as f: readme = f.read()
 
 setup(
     name='yomikata',
-    version="0.1.1",
+    version="0.1.2",
     description="How do you read this?",
     long_description=__doc__,
     author='Mao Nabeta',

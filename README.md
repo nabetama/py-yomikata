@@ -1,7 +1,6 @@
 # Yomikata
 
-ここにスクショ
-
+![capture](http://i.imgur.com/U4gJ2Bt.png)
 
 ## Usage
 

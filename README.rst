@@ -1,7 +1,10 @@
 Yomikata
 ========
 
-ここにスクショ
+.. figure:: http://i.imgur.com/U4gJ2Bt.png
+   :alt: capture
+
+   capture
 
 Usage
 -----

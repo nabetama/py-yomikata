@@ -1,6 +1,9 @@
 Yomikata
 ========
 
+.. figure:: http://imgur.com/biyQJaU
+   :alt: 
+
 Usage
 -----
 

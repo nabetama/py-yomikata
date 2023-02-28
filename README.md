@@ -8,13 +8,8 @@
 $ yomikata nginx
 ```
 
-## Installation
-
-```sh
-pip install yomikata
-```
-
 ## License
+
 MIT
 
 ## Author

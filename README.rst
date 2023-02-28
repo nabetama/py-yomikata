@@ -11,12 +11,6 @@ Usage
 
     $ yomikata nginx
 
-Installation
-------------
-
-.. code:: sh
-
-    pip install yomikata
 
 License
 -------
